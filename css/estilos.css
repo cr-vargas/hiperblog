@@ -1,22 +1,20 @@
-body
-{
-    color: #333;
-    text-align: center;
-    font-family: "Arial";
+body{
+    columns: #333333;;
+    text-align:  center;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     margin: 0;
     padding: 0;
+
 }
-#container
-{
+#container{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #dddddd;
     margin: 0 auto;
 }
 
-#container h1
-{
+#container h1{
     font-size: 20px;
 }
